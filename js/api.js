@@ -1,0 +1,1 @@
+import {CONFIG} from './config.js';export async function getLinks(){const res=await fetch(`${CONFIG.API_URL}?action=getAll`);return await res.json();}

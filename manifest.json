@@ -1,0 +1,8 @@
+{
+  "name": "Anwar Hub",
+  "short_name": "AHub",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#da7756",
+  "start_url": "/"
+}

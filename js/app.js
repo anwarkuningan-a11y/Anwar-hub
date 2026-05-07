@@ -1,0 +1,1 @@
+import {initLinks} from './modules/links.js';window.addEventListener('DOMContentLoaded',()=>{document.getElementById('clock').innerHTML=new Date().toLocaleTimeString('id-ID');initLinks();});

@@ -1,1 +1,1 @@
-# Anwar-hub
+# Anwar Hub V2\n\nEdit js/config.js lalu ganti PASTE_APPS_SCRIPT_URL dengan URL Apps Script kamu.

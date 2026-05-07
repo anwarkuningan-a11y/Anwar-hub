@@ -1,0 +1,1 @@
+export const CONFIG={API_URL:'https://script.google.com/macros/s/AKfycbztKkex8iPog80fYaXnBo-QovgUQeayUhFSVh4KRpGdb8Ssi8p6QZuf-zoD7rKdJqxIVA/exec'};
